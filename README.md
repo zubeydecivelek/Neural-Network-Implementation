@@ -65,6 +65,6 @@ The code performs experiments with different hyperparameter configurations (numb
 1. Clone this repository (assuming you have Git installed).
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Download the Flowers15 dataset and place it in the `flowers15` directory.
-4. Run the main script (e.g., `python main.py`).
+4. Run the main script (e.g., `python neural_network.py`).
 
 The code will train the neural network, evaluate its performance, and potentially generate plots and visualizations based on the chosen configurations.
